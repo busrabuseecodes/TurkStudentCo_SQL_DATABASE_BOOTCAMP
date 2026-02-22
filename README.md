@@ -64,7 +64,7 @@ Bu projeyi yerel ortamınızda kurmak ve kullanmak için aşağıdaki adımları
 1️⃣ **Depoyu Klonlayın veya İndirin:**
 
 ```bash
-    git clone [https://github.com/bushranovaaa/TurkStudentCo-SQL-Odevleri.git](https://github.com/bushranovaaa/TurkStudentCo-SQL-Odevleri.git)
+    git clone [https://github.com/busrabuseecodes/TurkStudentCo-SQL-Odevleri.git](https://github.com/busrabuseecodes/TurkStudentCo-SQL-Odevleri.git)
     cd TurkStudentCo-SQL-Odevleri/CevrimiciEgitimPlatformu
 ```
 
@@ -86,8 +86,7 @@ Bu kapsamlı proje sayesinde aşağıdaki ana hedeflere ulaşmanız amaçlanmakt
 ## ✨ İletişim & Katkıda Bulunma
 Projeye katkıda bulunmak, iyileştirmeler önermek veya yeni özellikler eklemek isterseniz, Pull Request (Çekme İsteği) göndermekten çekinmeyin. Fikirleriniz ve katkılarınız bu projenin gelişiminde büyük değer taşımaktadır.
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bushranovaaa)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bushranovaaa/)  
-[![Mail](https://img.shields.io/badge/E-posta-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kurtbusra956@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/busrabuseecodes)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/busrabuseecodes/)   
 
 Unutmayın: database_schema.sql dosyasını oluşturmayı ve ERD görselini veya linkini README.md'ye eklemeyi unutma!
