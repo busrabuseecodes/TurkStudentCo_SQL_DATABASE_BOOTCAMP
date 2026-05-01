@@ -68,6 +68,6 @@ CREATE TABLE invoices (
 
 ---
 
-> 💡 Bu belgeyi `ver_sözlüğü.md` veya `tablo_olusturma_adimlari.md` adıyla kaydedip GitHub'a yükleyebilirsin.
+> 💡 Bu belgeyi `veri_sözlüğü.md` veya `tablo_olusturma_adimlari.md` adıyla kaydedip GitHub'a yükleyebilirsin.
 
 ---
